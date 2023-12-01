@@ -5,4 +5,3 @@
     - Gen AI project in conception...
 - 🔭 Love Swift, iOS architecture and astronomy. 💬 Ask me about 'em!
 - 🌱 I’m currently learning ML devops: hosting & serving [stable diffusion](https://huggingface.co/runwayml/stable-diffusion-inpainting) & [segment-anything](https://github.com/facebookresearch/segment-anything).
-- ⛓️ Exploring LangChain & Vector DB in search to condense knowledge and provide context in daily communications.
