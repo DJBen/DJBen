@@ -1,7 +1,7 @@
-- 🛠️ Mobile engineer at Snapchat, performance and reliability.
+- 🛠️ Mobile engineer at <img src="https://www.snapchat.com/favicon.ico" alt="icon" width="20" height="20"> Snapchat, client performance and reliability.
 - 🛠️ Previously mobile-first full stack engineer at 🔲 [Block](https://www.block.xyz/) (formally known as Square).
+- Swift expert and proponent for state-of-the-art [composable architecture](https://github.com/pointfreeco/swift-composable-architecture) and SwiftUI. 
 - 📱 I build apps. I work across the stack (iOS, backend, web).
     - 🛰️ Find satellite passes over you with [Satellite Forecast](https://apps.apple.com/us/app/satellite-forecast/id1578649430).
-    - Gen AI project in conception...
 - 🔭 Love Swift, iOS architecture and astronomy. 💬 Ask me about 'em!
-- 🌱 I’m currently learning ML devops: hosting & serving [stable diffusion](https://huggingface.co/runwayml/stable-diffusion-inpainting) & [segment-anything](https://github.com/facebookresearch/segment-anything).
+- 🌱 I’m currently learning agentic frameworks to build automated migration tools from ObjC to Swift.
