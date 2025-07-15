@@ -2,6 +2,6 @@
 - 🛠️ Previously mobile-first full stack engineer at 🔲 [Block](https://www.block.xyz/) (formally known as Square).
 - Swift expert and proponent for state-of-the-art [composable architecture](https://github.com/pointfreeco/swift-composable-architecture) and SwiftUI. 
 - 📱 I build apps. I work across the stack (iOS, backend, web).
-    - 🛰️ Find satellite passes over you with [Satellite Forecast](https://apps.apple.com/us/app/satellite-forecast/id1578649430).
+    - 🛰️ Find space station (ISS, Tiangong) passes over you with [Space station passes](https://apps.apple.com/us/app/satellite-forecast/id1578649430).
 - 🔭 Love Swift, iOS architecture and astronomy. 💬 Ask me about 'em!
 - 🌱 I’m currently learning agentic frameworks to build automated migration tools from ObjC to Swift.
